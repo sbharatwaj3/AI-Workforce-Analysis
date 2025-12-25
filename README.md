@@ -30,7 +30,7 @@ Before visualization, the raw labor data underwent extensive processing in BigQu
 * **Feature Engineering:** Developed the logic for the *Complexity Axis* and *Automation Risk* using SQL aggregate functions and CASE statements.
 * **Data Cleaning:** Filtered out incomplete records and normalized wage data across 700+ job titles to provide a consistent baseline.
 
-### ### SQL Query Objectives
+### SQL Query Objectives
 * **Data Integration:** Merged raw occupational datasets with 2025 annual wage data using standardized O*NET codes.
 * **Weighted Scoring:** Calculated the **Complexity Axis** score by aggregating indices for original thinking, social perceptiveness, and complex problem-solving.
 * **Normalization:** Scaled **Automation Risk** percentiles to a normalized range to ensure visual consistency in the scatter plot.
