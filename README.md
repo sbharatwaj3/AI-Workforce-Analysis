@@ -5,7 +5,7 @@ This project utilizes a data-driven approach to analyze the intersection of **AI
 ## Interactive Dashboard
 [**View the Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/sidharth.bharatwaj/viz/TheFutureofWorkMappingAIAutomationRiskvs_OccupationalComplexity/Dashboard1#1)
 
-![AI Workforce Analysis Dashboard](Dashboard 1.png)
+![AI Workforce Analysis Dashboard](AI_Workforce_Analysis_Dashboard.png)
 
 ## Key Frameworks
 The analysis categorizes the workforce into four distinct segments:
