@@ -24,3 +24,7 @@ Before visualization, the raw labor data underwent extensive processing in BigQu
 * **SQL-Driven Analysis:** Used BigQuery to perform complex joins between occupational task data and wage datasets.
 * **Feature Engineering:** Developed the logic for the *Complexity Axis* and *Automation Risk* using SQL aggregate functions and CASE statements.
 * **Data Cleaning:** Filtered out incomplete records and normalized wage data across 700+ job titles to provide a consistent baseline.
+
+## Interactive Features
+* **Interactive Wage Slider:** Dynamically filter the workforce by annual salary (starting at $30,830) to see risk distribution across income tiers.
+* **Dual-Axis Mapping:** Quantifies the trade-off between technical automation capability and human cognitive demand.
